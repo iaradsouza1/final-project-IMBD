@@ -1,4 +1,4 @@
-# final-project-IMBD
+# Applying classification algorithms to identify essential genes in model organisms.
 Applying classification algorithms to identify essential genes in model organisms. 
 
 
